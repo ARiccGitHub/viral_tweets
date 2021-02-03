@@ -519,7 +519,6 @@ print(f'Recall: {recall_score(p_test_labels, Logreg_predictions_b10000)}')
 # ------------------------------------- Choosing K
 #
 #  ------ Best k for the KNN 5 count Benchmark Classifier
-name ='Classifier 5 count Benchmark'
 best_k_b5, k_eval_b5 = best_k_value(scaled_train_data_b5, train_labels_b5,
                                     scaled_test_data_b5, test_labels_b5,
                                     100, 'Classifier 5 count Benchmark')

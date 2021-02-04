@@ -8,8 +8,8 @@ My Codecademy Challenging Part-1 Project From The Data Scientist Path Foundation
 Supervised Learning Course, Advance Classification Models Section
 
 Project Goal:
-Predict Viral Tweets, using a K-Nearest Neighbor classifier to predict whether or not a tweet will go viral.
-Note: I went be beyond the Codecademy project's goal, by evaluating three different models.
+Predict Viral Tweets, using a K-Nearest Neighbors classifier to predict whether or not a tweet will go viral.
+Note: I went beyond the Codecademy project's goal, by evaluating three different models.
 
 ----------------------------------------------------------------------------------------
 
